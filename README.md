@@ -5,6 +5,7 @@ This is an early version of the mod and features are subject to change. Please r
 
 **Features**
 • Item Spawner: Browse and spawn all in-game items with a visual grid interface
+
 • Search Function: Quickly find items by name
 • Money Editor: Add money to your character
 • Quantity Control: Spawn multiple items at once
