@@ -23,6 +23,18 @@ Updates may take a while due to personal time limitations.
 
 ---
 
+## 💾 Installation
+1. Download the latest `.zip` release from the [Releases](../../releases) page.  
+2. Extract the contents of the `.zip` file into your game directory:  
+
+Escape from Duckov/
+└── Duckov_Data/
+└── Mods/
+
+3. Launch the game — the mod will load automatically if installed correctly.
+
+---
+
 ## 🎮 Usage
 - Press **SHIFT + L** to open settings (only works in-game)  
 - Press **F10** to toggle the menu (only works in-game)  
@@ -33,4 +45,6 @@ Updates may take a while due to personal time limitations.
 
 ---
 
-**Updates:** May be delayed due to personal time constraints  
+## 💬 Feedback
+- **Bugs & Suggestions:** Please use the threads dedicated to them  
+- **Updates:** May be delayed due to personal time constraints  
