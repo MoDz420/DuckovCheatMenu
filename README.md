@@ -31,7 +31,7 @@ Escape from Duckov/
 └── Duckov_Data/
 └── Mods/
 
-3. Launch the game — the mod will load automatically if installed correctly.
+3. Launch the game and the mod should be available to activate in the mods section.
 
 ---
 
